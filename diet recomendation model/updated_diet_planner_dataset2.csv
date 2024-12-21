@@ -1,0 +1,401 @@
+Gender,Height,Weight,BMI Class,age,activity level,TDEE,target calories,recommended meals
+Male,161,89,4,18,Sedentary,2173.5,1773.5,Meal Plans A
+Male,179,127,4,21,Sedentary,2746.5,2346.5,Meal Plans C
+Male,172,139,5,33,Very Active,3976.12,3476.12,Meal Plans D
+Male,153,104,5,23,Sedentary,2263.5,1763.5,Meal Plans A
+Male,165,68,2,39,Moderately Active,2357.94,2357.94,Meal Plans C
+Male,172,92,4,39,Sedentary,2166.0,1766.0,Meal Plans A
+Male,182,108,4,39,Lightly Active,2787.81,2387.81,Meal Plans C
+Male,179,130,5,54,Moderately Active,3338.31,2838.31,Meal Plans D
+Male,142,71,4,34,Sedentary,1719.0,1319.0,Meal Plans A
+Female,158,153,5,22,Lightly Active,3088.94,2588.94,Meal Plans D
+Male,194,108,3,59,Lightly Active,2753.44,2453.44,Meal Plans C
+Female,178,107,4,33,Moderately Active,2877.58,2477.58,Meal Plans C
+Male,155,57,2,33,Sedentary,1654.5,1654.5,Meal Plans A
+Female,151,64,3,46,Sedentary,1431.3,1131.3,Meal Plans A
+Female,181,80,2,35,Lightly Active,2193.47,2193.47,Meal Plans C
+Female,147,126,5,27,Sedentary,2259.3,1759.3,Meal Plans A
+Female,142,159,5,18,Moderately Active,3451.08,2951.08,Meal Plans D
+Male,165,155,5,28,Sedentary,2935.5,2435.5,Meal Plans C
+Female,146,104,5,36,Moderately Active,2497.83,1997.83,Meal Plans B
+Male,157,56,2,31,Lightly Active,1912.97,1912.97,Meal Plans B
+Female,173,82,2,44,Very Active,2622.43,2622.43,Meal Plans D
+Female,170,102,4,25,Sedentary,2155.8,1755.8,Meal Plans A
+Female,190,118,4,23,Moderately Active,3241.83,2841.83,Meal Plans D
+Female,168,140,5,26,Very Active,3724.28,3224.28,Meal Plans D
+Female,153,78,2,18,Very Active,2562.06,2562.06,Meal Plans D
+Male,188,123,4,28,Lightly Active,3121.25,2721.25,Meal Plans D
+Female,162,64,2,23,Sedentary,1651.8,1651.8,Meal Plans A
+Male,182,104,4,18,Moderately Active,3243.38,2843.38,Meal Plans D
+Male,194,115,4,35,Sedentary,2631.0,2231.0,Meal Plans C
+Female,185,102,3,21,Sedentary,2292.3,1992.3,Meal Plans B
+Male,178,52,1,32,Very Active,2548.69,2848.69,Meal Plans D
+Female,192,90,2,18,Lightly Active,2542.38,2542.38,Meal Plans D
+Male,147,142,5,22,Moderately Active,3462.31,2962.31,Meal Plans D
+Male,152,103,5,25,Moderately Active,2883.0,2383.0,Meal Plans C
+Female,169,54,2,40,Sedentary,1482.3,1482.3,Meal Plans A
+Male,178,127,5,43,Moderately Active,3367.38,2867.38,Meal Plans D
+Male,165,105,4,22,Very Active,3409.03,3009.03,Meal Plans D
+Female,172,67,2,30,Lightly Active,1971.75,1971.75,Meal Plans B
+Male,140,129,5,23,Moderately Active,3185.25,2685.25,Meal Plans D
+Male,141,86,5,38,Sedentary,1867.5,1367.5,Meal Plans A
+Female,172,96,4,18,Moderately Active,2765.2,2365.2,Meal Plans C
+Male,191,96,3,24,Very Active,3516.84,3216.84,Meal Plans D
+Female,147,107,5,29,Sedentary,2019.3,1519.3,Meal Plans A
+Male,197,119,4,23,Sedentary,2773.5,2373.5,Meal Plans C
+Female,162,159,5,40,Moderately Active,3474.33,2974.33,Meal Plans D
+Male,173,139,5,22,Very Active,4081.78,3581.78,Meal Plans D
+Male,185,139,5,38,Very Active,4073.16,3573.16,Meal Plans D
+Female,152,90,4,19,Lightly Active,2191.75,1791.75,Meal Plans A
+Male,163,131,5,18,Moderately Active,3477.81,2977.81,Meal Plans D
+Male,188,141,4,29,Moderately Active,3789.75,3389.75,Meal Plans D
+Male,189,104,3,43,Very Active,3469.41,3169.41,Meal Plans D
+Female,165,57,2,25,Very Active,2268.81,2268.81,Meal Plans C
+Male,185,76,2,21,Sedentary,2179.5,2179.5,Meal Plans C
+Female,157,110,5,18,Lightly Active,2516.59,2016.59,Meal Plans B
+Male,179,56,1,50,Moderately Active,2222.31,2522.31,Meal Plans D
+Female,186,143,5,29,Lightly Active,3143.94,2643.94,Meal Plans D
+Female,195,104,3,33,Very Active,3333.99,3033.99,Meal Plans D
+Female,141,126,5,18,Very Active,3260.68,2760.68,Meal Plans D
+Male,148,141,5,18,Moderately Active,3487.5,2987.5,Meal Plans D
+Female,191,54,0,20,Very Active,2540.49,3040.49,Meal Plans D
+Female,150,70,4,23,Sedentary,1633.8,1233.8,Meal Plans A
+Male,170,95,4,35,Very Active,3178.31,2778.31,Meal Plans D
+Female,153,77,4,30,Sedentary,1698.3,1298.3,Meal Plans A
+Male,179,152,5,25,Very Active,4344.84,3844.84,Meal Plans D
+Male,184,157,5,18,Very Active,4545.38,4045.38,Meal Plans D
+Male,154,112,5,20,Moderately Active,3080.62,2580.62,Meal Plans D
+Male,190,95,3,22,Sedentary,2439.0,2139.0,Meal Plans C
+Male,154,111,5,35,Very Active,3281.81,2781.81,Meal Plans D
+Male,182,50,0,41,Sedentary,1725.0,2225.0,Meal Plans C
+Female,181,106,4,24,Lightly Active,2626.59,2226.59,Meal Plans C
+Male,144,80,4,30,Lightly Active,2138.12,1738.12,Meal Plans A
+Male,168,160,5,27,Very Active,4347.0,3847.0,Meal Plans D
+Female,179,150,5,36,Moderately Active,3530.51,3030.51,Meal Plans D
+Male,144,108,5,34,Very Active,3130.88,2630.88,Meal Plans D
+Female,177,96,4,35,Lightly Active,2379.09,1979.09,Meal Plans B
+Female,185,119,4,29,Sedentary,2448.3,2048.3,Meal Plans B
+Female,163,63,2,22,Sedentary,1653.3,1653.3,Meal Plans A
+Male,177,117,4,26,Very Active,3710.91,3310.91,Meal Plans D
+Male,140,79,5,40,Sedentary,1764.0,1264.0,Meal Plans A
+Female,147,67,4,29,Moderately Active,1988.26,1588.26,Meal Plans A
+Female,167,58,2,37,Sedentary,1533.3,1533.3,Meal Plans A
+Male,145,108,5,46,Moderately Active,2729.94,2229.94,Meal Plans C
+Male,193,130,4,22,Moderately Active,3721.94,3321.94,Meal Plans D
+Female,187,94,3,23,Sedentary,2199.3,1899.3,Meal Plans B
+Female,183,79,2,21,Lightly Active,2293.16,2293.16,Meal Plans C
+Female,167,85,4,18,Moderately Active,2546.26,2146.26,Meal Plans C
+Male,141,80,5,24,Sedentary,1879.5,1379.5,Meal Plans A
+Female,168,59,2,32,Lightly Active,1813.62,1813.62,Meal Plans B
+Female,150,84,4,18,Lightly Active,2098.94,1698.94,Meal Plans A
+Female,151,67,3,26,Lightly Active,1818.78,1518.78,Meal Plans A
+Female,170,53,1,41,Very Active,2115.71,2415.71,Meal Plans C
+Female,150,144,5,24,Very Active,3616.46,3116.46,Meal Plans D
+Female,195,104,3,18,Lightly Active,2760.66,2460.66,Meal Plans C
+Female,187,121,4,24,Lightly Active,2884.41,2484.41,Meal Plans C
+Male,149,66,3,45,Sedentary,1645.5,1345.5,Meal Plans A
+Female,188,90,3,36,Lightly Active,2384.25,2084.25,Meal Plans B
+Male,197,125,4,21,Sedentary,2857.5,2457.5,Meal Plans C
+Female,194,111,3,32,Moderately Active,3102.33,2802.33,Meal Plans D
+Female,150,60,3,18,Lightly Active,1768.94,1468.94,Meal Plans A
+Female,186,127,4,43,Sedentary,2467.8,2067.8,Meal Plans B
+Male,145,142,5,38,Moderately Active,3318.94,2818.94,Meal Plans D
+Male,186,118,4,18,Very Active,3894.19,3494.19,Meal Plans D
+Male,151,114,5,38,Very Active,3275.34,2775.34,Meal Plans D
+Male,181,78,2,41,Lightly Active,2352.97,2352.97,Meal Plans C
+Female,182,143,5,18,Sedentary,2779.8,2279.8,Meal Plans C
+Male,193,151,5,26,Moderately Active,4016.44,3516.44,Meal Plans D
+Female,171,120,5,18,Lightly Active,2774.41,2274.41,Meal Plans C
+Female,185,100,3,36,Moderately Active,2813.64,2513.64,Meal Plans D
+Female,151,55,2,37,Very Active,1979.87,1979.87,Meal Plans B
+Female,180,58,1,18,Moderately Active,2253.7,2553.7,Meal Plans D
+Male,153,70,3,42,Lightly Active,1995.47,1695.47,Meal Plans A
+Female,176,156,5,42,Lightly Active,3147.38,2647.38,Meal Plans D
+Male,171,147,5,35,Lightly Active,3257.03,2757.03,Meal Plans D
+Male,151,82,4,36,Lightly Active,2184.53,1784.53,Meal Plans A
+Female,162,58,2,21,Lightly Active,1823.94,1823.94,Meal Plans B
+Male,190,50,0,26,Sedentary,1875.0,2375.0,Meal Plans C
+Male,163,137,5,31,Moderately Active,3470.06,2970.06,Meal Plans D
+Female,155,144,5,18,Lightly Active,2966.91,2466.91,Meal Plans C
+Male,184,153,5,18,Moderately Active,4022.25,3522.25,Meal Plans D
+Male,145,78,4,25,Sedentary,1879.5,1479.5,Meal Plans A
+Male,177,117,4,26,Sedentary,2581.5,2181.5,Meal Plans C
+Male,178,83,3,33,Sedentary,2139.0,1839.0,Meal Plans B
+Female,197,114,3,18,Sedentary,2544.3,2244.3,Meal Plans C
+Male,157,74,4,48,Lightly Active,2043.59,1643.59,Meal Plans A
+Male,159,124,5,18,Sedentary,2578.5,2078.5,Meal Plans B
+Female,184,152,5,23,Lightly Active,3291.75,2791.75,Meal Plans D
+Female,183,50,0,34,Lightly Active,1805.03,2305.03,Meal Plans C
+Female,166,153,5,18,Moderately Active,3590.58,3090.58,Meal Plans D
+Male,150,74,4,49,Moderately Active,2228.12,1828.12,Meal Plans B
+Male,143,88,5,38,Lightly Active,2184.53,1684.53,Meal Plans A
+Female,146,157,5,18,Very Active,3849.34,3349.34,Meal Plans D
+Female,185,140,5,50,Sedentary,2574.3,2074.3,Meal Plans B
+Female,153,133,5,18,Very Active,3510.81,3010.81,Meal Plans D
+Male,147,92,5,37,Very Active,2861.34,2361.34,Meal Plans C
+Female,193,61,1,19,Sedentary,1872.3,2172.3,Meal Plans C
+Female,191,68,2,25,Very Active,2738.87,2738.87,Meal Plans D
+Female,189,125,4,26,Sedentary,2568.3,2168.3,Meal Plans C
+Female,187,102,3,37,Lightly Active,2533.78,2233.78,Meal Plans C
+Female,196,50,0,20,Lightly Active,2013.0,2513.0,Meal Plans D
+Female,181,94,3,29,Lightly Active,2427.22,2127.22,Meal Plans C
+Female,183,87,3,19,Moderately Active,2724.51,2424.51,Meal Plans C
+Female,192,108,3,47,Moderately Active,2920.2,2620.2,Meal Plans D
+Male,159,145,5,35,Moderately Active,3524.31,3024.31,Meal Plans D
+Male,195,81,2,25,Lightly Active,2624.53,2624.53,Meal Plans D
+Male,159,120,5,35,Very Active,3490.97,2990.97,Meal Plans D
+Female,198,145,4,44,Moderately Active,3575.08,3175.08,Meal Plans D
+Female,166,140,5,40,Lightly Active,2855.19,2355.19,Meal Plans C
+Female,171,152,5,31,Moderately Active,3522.76,3022.76,Meal Plans D
+Female,180,60,2,31,Lightly Active,1937.38,1937.38,Meal Plans B
+Female,156,106,5,25,Very Active,3017.03,2517.03,Meal Plans D
+Male,198,109,3,28,Very Active,3782.06,3482.06,Meal Plans D
+Female,169,88,2,45,Sedentary,1860.3,1860.3,Meal Plans B
+Female,167,79,3,29,Lightly Active,2100.66,1800.66,Meal Plans B
+Female,166,144,5,25,Sedentary,2629.8,2129.8,Meal Plans C
+Female,140,76,4,31,Very Active,2275.28,1875.28,Meal Plans B
+Female,152,114,5,18,Moderately Active,2850.45,2350.45,Meal Plans C
+Male,194,106,3,25,Very Active,3713.06,3413.06,Meal Plans D
+Female,183,76,2,37,Sedentary,1869.3,1869.3,Meal Plans B
+Female,140,146,5,27,Moderately Active,3160.45,2660.45,Meal Plans D
+Female,176,121,4,18,Lightly Active,2831.12,2431.12,Meal Plans C
+Male,178,160,5,22,Moderately Active,4041.62,3541.62,Meal Plans D
+Female,184,160,5,22,Moderately Active,3842.45,3342.45,Meal Plans D
+Male,142,131,5,18,Moderately Active,3274.38,2774.38,Meal Plans D
+Male,142,69,4,42,Very Active,2367.56,1967.56,Meal Plans B
+Male,163,123,5,23,Moderately Active,3315.06,2815.06,Meal Plans D
+Female,146,110,5,40,Sedentary,1981.8,1481.8,Meal Plans A
+Male,143,149,5,22,Lightly Active,3133.28,2633.28,Meal Plans D
+Male,160,139,5,30,Sedentary,2694.0,2194.0,Meal Plans C
+Male,165,143,5,31,Sedentary,2773.5,2273.5,Meal Plans C
+Male,187,138,4,23,Very Active,4206.84,3806.84,Meal Plans D
+Male,180,73,2,32,Moderately Active,2635.0,2635.0,Meal Plans D
+Female,156,89,4,52,Very Active,2490.9,2090.9,Meal Plans B
+Male,182,98,3,25,Sedentary,2397.0,2097.0,Meal Plans B
+Male,188,114,4,24,Moderately Active,3410.0,3010.0,Meal Plans D
+Female,187,92,3,26,Lightly Active,2471.91,2171.91,Meal Plans C
+Male,197,88,2,28,Moderately Active,3063.19,3063.19,Meal Plans D
+Male,146,138,5,30,Moderately Active,3328.62,2828.62,Meal Plans D
+Female,164,71,3,27,Sedentary,1726.8,1426.8,Meal Plans A
+Female,192,139,4,36,Sedentary,2698.8,2298.8,Meal Plans C
+Male,158,96,4,28,Moderately Active,2809.38,2409.38,Meal Plans C
+Male,188,81,2,37,Very Active,3113.62,3113.62,Meal Plans D
+Male,178,140,5,42,Moderately Active,3576.62,3076.62,Meal Plans D
+Male,162,130,5,28,Lightly Active,2994.06,2494.06,Meal Plans C
+Male,159,109,5,32,Moderately Active,2989.56,2489.56,Meal Plans C
+Male,154,54,2,24,Moderately Active,2150.62,2150.62,Meal Plans C
+Female,195,61,1,19,Lightly Active,2162.53,2462.53,Meal Plans C
+Male,149,100,5,65,Very Active,2779.41,2279.41,Meal Plans C
+Female,186,128,4,37,Moderately Active,3249.58,2849.58,Meal Plans D
+Male,142,91,5,32,Sedentary,1971.0,1471.0,Meal Plans A
+Male,183,105,3,26,Very Active,3568.59,3268.59,Meal Plans D
+Male,174,90,3,31,Lightly Active,2526.56,2226.56,Meal Plans C
+Female,168,143,5,20,Lightly Active,3051.12,2551.12,Meal Plans D
+Male,187,96,3,26,Sedentary,2404.5,2104.5,Meal Plans C
+Female,155,71,3,18,Lightly Active,1963.16,1663.16,Meal Plans A
+Male,190,135,4,21,Sedentary,2925.0,2525.0,Meal Plans D
+Male,188,100,3,33,Moderately Active,3123.25,2823.25,Meal Plans D
+Male,144,88,5,18,Lightly Active,2330.62,1830.62,Meal Plans B
+Female,150,97,5,36,Very Active,2702.21,2202.21,Meal Plans C
+Male,187,80,2,40,Lightly Active,2438.91,2438.91,Meal Plans C
+Female,172,108,4,22,Sedentary,2260.8,1860.8,Meal Plans B
+Female,186,146,5,34,Sedentary,2749.8,2249.8,Meal Plans C
+Female,177,81,3,24,Moderately Active,2534.64,2234.64,Meal Plans C
+Female,180,156,5,34,Lightly Active,3236.75,2736.75,Meal Plans D
+Female,172,111,4,42,Lightly Active,2494.25,2094.25,Meal Plans B
+Female,190,156,5,19,Very Active,4297.84,3797.84,Meal Plans D
+Female,177,117,4,45,Very Active,3260.68,2860.68,Meal Plans D
+Female,169,145,5,33,Moderately Active,3379.39,2879.39,Meal Plans D
+Female,184,86,3,21,Moderately Active,2703.2,2403.2,Meal Plans C
+Male,148,60,3,36,Lightly Active,1856.25,1556.25,Meal Plans A
+Female,168,87,4,21,Moderately Active,2563.7,2163.7,Meal Plans C
+Female,157,60,2,27,Very Active,2217.06,2217.06,Meal Plans C
+Male,188,54,0,34,Lightly Active,2131.25,2631.25,Meal Plans D
+Male,182,70,2,61,Very Active,2652.19,2652.19,Meal Plans D
+Male,169,136,5,28,Lightly Active,3136.72,2636.72,Meal Plans D
+Female,145,79,4,35,Lightly Active,1870.34,1470.34,Meal Plans A
+Male,181,139,4,32,Very Active,4081.78,3681.78,Meal Plans D
+Female,177,101,4,37,Very Active,3053.68,2653.68,Meal Plans D
+Male,159,154,5,18,Very Active,4224.09,3724.09,Meal Plans D
+Male,151,62,3,18,Very Active,2550.84,2250.84,Meal Plans C
+Female,148,54,2,44,Moderately Active,1680.2,1680.2,Meal Plans A
+Female,167,110,4,29,Very Active,3170.12,2770.12,Meal Plans D
+Female,169,121,5,31,Lightly Active,2681.59,2181.59,Meal Plans C
+Female,182,126,4,33,Sedentary,2485.8,2085.8,Meal Plans B
+Male,179,123,4,18,Very Active,3904.97,3504.97,Meal Plans D
+Female,179,158,5,35,Very Active,4075.74,3575.74,Meal Plans D
+Male,166,107,4,31,Lightly Active,2691.56,2291.56,Meal Plans C
+Male,198,50,0,18,Very Active,2850.56,3350.56,Meal Plans D
+Male,191,62,1,28,Sedentary,2014.5,2314.5,Meal Plans C
+Female,167,135,5,18,Moderately Active,3321.26,2821.26,Meal Plans D
+Male,151,154,5,51,Moderately Active,3462.31,2962.31,Meal Plans D
+Male,181,105,4,18,Lightly Active,2882.34,2482.34,Meal Plans C
+Female,192,101,3,28,Moderately Active,2958.95,2658.95,Meal Plans D
+Female,189,132,4,35,Sedentary,2598.3,2198.3,Meal Plans C
+Female,163,159,5,34,Lightly Active,3131.91,2631.91,Meal Plans D
+Male,187,136,4,27,Moderately Active,3718.06,3318.06,Meal Plans D
+Male,180,149,5,25,Lightly Active,3430.62,2930.62,Meal Plans D
+Female,149,61,3,44,Very Active,2001.43,1701.43,Meal Plans A
+Female,154,92,4,29,Lightly Active,2167.69,1767.69,Meal Plans A
+Male,183,138,5,20,Moderately Active,3764.56,3264.56,Meal Plans D
+Female,170,156,5,29,Very Active,3995.96,3495.96,Meal Plans D
+Female,176,54,1,36,Moderately Active,2013.45,2313.45,Meal Plans C
+Male,178,85,3,54,Moderately Active,2631.12,2331.12,Meal Plans C
+Female,188,115,4,18,Lightly Active,2851.75,2451.75,Meal Plans C
+Female,154,96,5,18,Moderately Active,2590.83,2090.83,Meal Plans B
+Female,166,126,5,21,Very Active,3504.34,3004.34,Meal Plans D
+Female,149,108,5,23,Moderately Active,2689.64,2189.64,Meal Plans C
+Male,150,95,5,34,Sedentary,2067.0,1567.0,Meal Plans A
+Male,140,146,5,23,Moderately Active,3448.75,2948.75,Meal Plans D
+Male,145,99,5,35,Very Active,2977.78,2477.78,Meal Plans C
+Female,147,94,5,58,Lightly Active,1935.66,1435.66,Meal Plans A
+Male,183,147,5,22,Very Active,4327.59,3827.59,Meal Plans D
+Male,181,154,5,37,Sedentary,2989.5,2489.5,Meal Plans C
+Male,149,61,3,26,Sedentary,1699.5,1399.5,Meal Plans A
+Female,172,109,4,43,Very Active,3086.03,2686.03,Meal Plans D
+Female,146,101,5,26,Moderately Active,2528.83,2028.83,Meal Plans B
+Male,199,156,4,23,Sedentary,3232.5,2832.5,Meal Plans D
+Male,166,70,3,42,Very Active,2643.56,2343.56,Meal Plans C
+Female,165,95,4,24,Moderately Active,2635.39,2235.39,Meal Plans C
+Female,196,159,5,33,Lightly Active,3422.38,2922.38,Meal Plans D
+Male,174,138,5,23,Moderately Active,3654.12,3154.12,Meal Plans D
+Male,195,69,1,39,Sedentary,2062.5,2362.5,Meal Plans C
+Female,162,68,3,29,Sedentary,1663.8,1363.8,Meal Plans A
+Female,171,131,5,26,Lightly Active,2870.66,2370.66,Meal Plans C
+Female,141,143,5,28,Very Active,3467.68,2967.68,Meal Plans D
+Male,181,111,4,33,Sedentary,2497.5,2097.5,Meal Plans B
+Female,195,65,1,25,Sedentary,1899.3,2199.3,Meal Plans C
+Male,154,145,5,18,Moderately Active,3607.62,3107.62,Meal Plans D
+Female,167,85,4,26,Sedentary,1923.3,1523.3,Meal Plans A
+Male,184,57,1,18,Moderately Active,2534.25,2834.25,Meal Plans D
+Male,146,70,4,37,Very Active,2471.06,2071.06,Meal Plans B
+Male,187,62,1,29,Sedentary,1978.5,2278.5,Meal Plans C
+Male,174,54,1,35,Moderately Active,2259.12,2559.12,Meal Plans D
+Female,186,137,4,18,Very Active,3935.59,3535.59,Meal Plans D
+Male,159,104,5,43,Sedentary,2188.5,1688.5,Meal Plans A
+Female,156,52,2,27,Sedentary,1438.8,1438.8,Meal Plans A
+Male,192,101,3,32,Very Active,3544.88,3244.88,Meal Plans D
+Female,180,59,1,18,Lightly Active,2013.0,2313.0,Meal Plans C
+Male,171,147,5,41,Lightly Active,3215.78,2715.78,Meal Plans D
+Male,193,54,0,42,Moderately Active,2388.94,2888.94,Meal Plans D
+Female,183,150,5,31,Moderately Active,3608.01,3108.01,Meal Plans D
+Male,182,151,5,38,Lightly Active,3385.94,2885.94,Meal Plans D
+Female,164,142,5,25,Sedentary,2590.8,2090.8,Meal Plans B
+Male,174,90,3,36,Lightly Active,2492.19,2192.19,Meal Plans C
+Female,199,92,2,43,Very Active,3083.87,3083.87,Meal Plans D
+Female,145,141,5,35,Moderately Active,3069.39,2569.39,Meal Plans D
+Male,175,135,5,28,Lightly Active,3174.53,2674.53,Meal Plans D
+Female,186,140,5,32,Moderately Active,3474.33,2974.33,Meal Plans D
+Male,191,79,2,44,Sedentary,2122.5,2122.5,Meal Plans C
+Female,182,84,3,18,Sedentary,2071.8,1771.8,Meal Plans A
+Female,175,120,4,43,Sedentary,2301.3,1901.3,Meal Plans B
+Male,176,87,3,39,Moderately Active,2759.0,2459.0,Meal Plans C
+Male,161,115,5,30,Very Active,3469.41,2969.41,Meal Plans D
+Male,169,110,4,27,Lightly Active,2786.09,2386.09,Meal Plans C
+Female,143,118,5,41,Moderately Active,2647.01,2147.01,Meal Plans C
+Male,188,57,1,33,Moderately Active,2456.75,2756.75,Meal Plans D
+Male,165,62,2,33,Very Active,2572.41,2572.41,Meal Plans D
+Female,178,79,2,36,Very Active,2693.59,2693.59,Meal Plans D
+Female,164,126,5,29,Moderately Active,3067.45,2567.45,Meal Plans D
+Male,181,141,5,18,Lightly Active,3377.34,2877.34,Meal Plans D
+Female,196,122,4,46,Lightly Active,2824.25,2424.25,Meal Plans C
+Female,153,146,5,59,Lightly Active,2695.34,2195.34,Meal Plans C
+Male,160,156,5,51,Lightly Active,3176.25,2676.25,Meal Plans D
+Female,175,83,2,35,Very Active,2738.87,2738.87,Meal Plans D
+Male,140,143,5,24,Moderately Active,3394.5,2894.5,Meal Plans D
+Male,198,136,4,18,Very Active,4334.06,3934.06,Meal Plans D
+Female,160,109,5,24,Moderately Active,2803.95,2303.95,Meal Plans C
+Male,179,110,4,20,Moderately Active,3291.81,2891.81,Meal Plans D
+Male,184,83,2,23,Lightly Active,2571.25,2571.25,Meal Plans D
+Male,168,50,1,20,Sedentary,1746.0,2046.0,Meal Plans B
+Male,179,93,3,18,Moderately Active,3043.81,2743.81,Meal Plans D
+Female,184,76,2,28,Sedentary,1930.8,1930.8,Meal Plans B
+Male,161,118,5,29,Very Active,3529.78,3029.78,Meal Plans D
+Female,142,86,5,18,Sedentary,1795.8,1295.8,Meal Plans A
+Male,174,107,4,37,Lightly Active,2719.06,2319.06,Meal Plans C
+Male,141,85,5,30,Lightly Active,2181.09,1681.09,Meal Plans A
+Male,171,141,5,45,Sedentary,2710.5,2210.5,Meal Plans C
+Female,184,132,4,27,Sedentary,2608.8,2208.8,Meal Plans C
+Male,195,126,4,22,Sedentary,2848.5,2448.5,Meal Plans C
+Male,172,105,4,27,Lightly Active,2743.12,2343.12,Meal Plans C
+Female,150,50,2,25,Very Active,1986.34,1986.34,Meal Plans B
+Male,189,87,2,18,Sedentary,2359.5,2359.5,Meal Plans C
+Male,182,73,2,26,Moderately Active,2700.88,2700.88,Meal Plans D
+Female,142,86,5,39,Lightly Active,1913.31,1413.31,Meal Plans A
+Male,140,152,5,20,Moderately Active,3565.0,3065.0,Meal Plans D
+Female,177,61,2,18,Sedentary,1758.3,1758.3,Meal Plans A
+Male,164,75,3,18,Sedentary,2028.0,1728.0,Meal Plans A
+Female,150,87,4,28,Very Active,2598.71,2198.71,Meal Plans C
+Female,157,153,5,23,Sedentary,2682.3,2182.3,Meal Plans C
+Female,157,52,2,26,Lightly Active,1664.09,1664.09,Meal Plans A
+Female,187,130,4,35,Very Active,3678.99,3278.99,Meal Plans D
+Female,185,94,3,21,Moderately Active,2836.89,2536.89,Meal Plans D
+Female,183,96,3,21,Moderately Active,2848.51,2548.51,Meal Plans D
+Female,161,145,5,23,Sedentary,2616.3,2116.3,Meal Plans C
+Male,195,153,5,31,Moderately Active,4028.06,3528.06,Meal Plans D
+Male,163,110,5,50,Sedentary,2248.5,1748.5,Meal Plans A
+Female,184,106,4,33,Lightly Active,2590.5,2190.5,Meal Plans C
+Male,147,84,4,18,Lightly Active,2301.41,1901.41,Meal Plans B
+Male,166,61,2,46,Lightly Active,1955.94,1955.94,Meal Plans B
+Male,155,51,2,26,Sedentary,1624.5,1624.5,Meal Plans A
+Female,154,132,5,42,Lightly Active,2628.31,2128.31,Meal Plans C
+Female,159,104,5,28,Lightly Active,2382.53,1882.53,Meal Plans B
+Female,160,83,4,47,Lightly Active,1971.75,1571.75,Meal Plans A
+Female,163,57,0,35,Lightly Active,1722.53,2222.53,Meal Plans C
+Male,176,109,4,20,Lightly Active,2880.62,2480.62,Meal Plans C
+Female,164,71,3,48,Lightly Active,1834.25,1534.25,Meal Plans A
+Female,198,50,0,18,Moderately Active,2304.08,2804.08,Meal Plans D
+Female,171,155,5,38,Lightly Active,3118.16,2618.16,Meal Plans D
+Male,183,153,5,22,Moderately Active,3981.56,3481.56,Meal Plans D
+Female,155,115,5,34,Moderately Active,2771.01,2271.01,Meal Plans C
+Male,152,141,5,46,Very Active,3682.88,3182.88,Meal Plans D
+Female,177,155,5,25,Lightly Active,3259.09,2759.09,Meal Plans D
+Male,196,116,4,34,Lightly Active,3052.5,2652.5,Meal Plans D
+Female,195,147,4,18,Moderately Active,3778.51,3378.51,Meal Plans D
+Female,168,135,5,25,Lightly Active,2906.75,2406.75,Meal Plans C
+Female,188,128,4,23,Very Active,3758.78,3358.78,Meal Plans D
+Male,197,149,4,34,Lightly Active,3514.84,3114.84,Meal Plans D
+Male,159,140,5,42,Sedentary,2626.5,2126.5,Meal Plans C
+Male,158,95,4,33,Very Active,3066.19,2666.19,Meal Plans D
+Female,184,121,4,40,Lightly Active,2748.62,2348.62,Meal Plans C
+Female,182,84,3,50,Very Active,2702.21,2402.21,Meal Plans C
+Female,188,80,2,18,Very Active,2973.9,2973.9,Meal Plans D
+Female,164,70,3,37,Moderately Active,2137.45,1837.45,Meal Plans B
+Male,161,72,3,18,Very Active,2831.16,2531.16,Meal Plans D
+Male,170,115,4,27,Lightly Active,2863.44,2463.44,Meal Plans C
+Male,170,81,3,28,Moderately Active,2693.12,2393.12,Meal Plans C
+Male,169,141,5,44,Lightly Active,3095.47,2595.47,Meal Plans D
+Female,153,149,5,34,Very Active,3648.81,3148.81,Meal Plans D
+Female,179,67,2,20,Lightly Active,2100.66,2100.66,Meal Plans C
+Female,184,147,5,22,Sedentary,2818.8,2318.8,Meal Plans C
+Male,199,99,2,28,Very Active,3620.34,3620.34,Meal Plans D
+Female,179,114,4,27,Sedentary,2355.3,1955.3,Meal Plans B
+Male,152,146,5,27,Very Active,3933.0,3433.0,Meal Plans D
+Male,154,100,5,18,Very Active,3238.69,2738.69,Meal Plans D
+Female,197,72,2,30,Lightly Active,2255.34,2255.34,Meal Plans C
+Female,165,83,4,18,Moderately Active,2495.89,2095.89,Meal Plans B
+Female,161,154,5,35,Sedentary,2652.3,2152.3,Meal Plans C
+Male,179,83,3,27,Sedentary,2182.5,1882.5,Meal Plans B
+Female,150,119,5,26,Sedentary,2203.8,1703.8,Meal Plans A
+Male,196,69,1,20,Lightly Active,2502.5,2802.5,Meal Plans D
+Female,168,115,3,18,Moderately Active,3020.95,2720.95,Meal Plans D
+Female,168,139,5,38,Lightly Active,2872.38,2372.38,Meal Plans C
+Male,140,52,3,18,Sedentary,1572.0,1272.0,Meal Plans A
+Female,186,148,4,18,Lightly Active,3288.31,2888.31,Meal Plans D
+Female,190,50,0,30,Sedentary,1651.8,2151.8,Meal Plans C
+Male,185,60,1,20,Sedentary,1993.5,2293.5,Meal Plans C
+Male,145,117,5,18,Lightly Active,2737.97,2237.97,Meal Plans C
+Male,154,81,4,34,Sedentary,1929.0,1529.0,Meal Plans A
+Female,164,160,5,43,Very Active,3879.53,3379.53,Meal Plans D
+Female,185,52,0,23,Moderately Active,2170.39,2670.39,Meal Plans D
+Female,188,99,3,31,Sedentary,2218.8,1918.8,Meal Plans B
+Male,187,122,4,18,Sedentary,2764.5,2364.5,Meal Plans C
+Male,173,131,5,22,Moderately Active,3543.69,3043.69,Meal Plans D
+Male,157,110,5,41,Moderately Active,2915.94,2415.94,Meal Plans C
+Female,161,134,5,26,Moderately Active,3185.64,2685.64,Meal Plans D
+Male,178,117,4,44,Moderately Active,3204.62,2804.62,Meal Plans D
+Male,166,160,5,44,Moderately Active,3754.88,3254.88,Meal Plans D
+Male,145,130,5,57,Very Active,3322.78,2822.78,Meal Plans D
+Male,178,138,5,32,Very Active,4032.19,3532.19,Meal Plans D
+Male,168,158,5,18,Moderately Active,3944.75,3444.75,Meal Plans D
+Male,161,155,5,23,Sedentary,2935.5,2435.5,Meal Plans C
